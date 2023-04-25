@@ -151,7 +151,7 @@ class HomeScreen extends StatelessWidget {
                               height: 40,
                               width: 100,
                               decoration: BoxDecoration(
-                                color: Colors.black,
+                                color: Colors.amber,
                                 borderRadius: BorderRadius.circular(16.0),
                               ),
                               child: const Text(
@@ -268,7 +268,7 @@ class HomeScreen extends StatelessWidget {
                               height: 40,
                               width: 100,
                               decoration: BoxDecoration(
-                                color: Colors.black,
+                                color: Colors.blueAccent,
                                 borderRadius: BorderRadius.circular(16.0),
                               ),
                               child: const Text(
@@ -386,7 +386,7 @@ class HomeScreen extends StatelessWidget {
                               height: 40,
                               width: 100,
                               decoration: BoxDecoration(
-                                color: Colors.black,
+                                color: Colors.redAccent,
                                 borderRadius: BorderRadius.circular(16.0),
                               ),
                               child: const Text(
@@ -504,7 +504,7 @@ class HomeScreen extends StatelessWidget {
                               height: 40,
                               width: 100,
                               decoration: BoxDecoration(
-                                color: Colors.black,
+                                color: Colors.lightGreen,
                                 borderRadius: BorderRadius.circular(16.0),
                               ),
                               child: const Text(
