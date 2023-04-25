@@ -171,19 +171,36 @@ class _HomeScreenState extends State<HomeScreen> {
                               decoration: BoxDecoration(
                                 borderRadius: BorderRadius.circular(12.0),
                               ),
-                              child: ClipRRect(
-                                  borderRadius: BorderRadius.circular(12.0),
-                                  child: Image.network(
-                                    mainList[index - 1],
-                                    fit: BoxFit.cover,
-                                  )),
+                              child: GestureDetector(
+                                onTap: () {
+                                  Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                          builder: (BuildContext context) =>
+                                              const SecondScreen()));
+                                },
+                                child: ClipRRect(
+                                    borderRadius: BorderRadius.circular(12.0),
+                                    child: Image.network(
+                                      mainList[index - 1],
+                                      fit: BoxFit.cover,
+                                    )),
+                              ),
                             ),
                           ),
                           Padding(
-                            padding: const EdgeInsets.only(left: 20),
-                            child:
-                                Text("Options", style: TextStyle(fontSize: 26)),
-                          ),
+                              padding: const EdgeInsets.only(left: 20),
+                              child: GestureDetector(
+                                onTap: () {
+                                  Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                          builder: (BuildContext context) =>
+                                              const SecondScreen()));
+                                },
+                                child: Text("Options",
+                                    style: TextStyle(fontSize: 26)),
+                              )),
                           Padding(
                             padding:
                                 const EdgeInsets.only(left: 20, bottom: 26.0),
