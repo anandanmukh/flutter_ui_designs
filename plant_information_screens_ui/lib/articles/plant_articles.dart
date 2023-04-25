@@ -308,7 +308,7 @@ class Peppermint extends StatelessWidget {
                 SizedBox(
                     height: 450,
                     child: Image.network(
-                      "https://images.pexels.com/photos/4705115/pexels-photo-4705115.jpeg?auto=compress&cs=tinysrgb&w=600",
+                      "https://images.pexels.com/photos/214165/pexels-photo-214165.jpeg?auto=compress&cs=tinysrgb&w=600",
                       fit: BoxFit.cover,
                     )),
                 Container(
@@ -324,7 +324,7 @@ class Peppermint extends StatelessWidget {
                         child: ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
                             child: Image.network(
-                              "https://images.pexels.com/photos/4100579/pexels-photo-4100579.jpeg?auto=compress&cs=tinysrgb&w=600",
+                              "https://images.pexels.com/photos/12018247/pexels-photo-12018247.jpeg?auto=compress&cs=tinysrgb&w=600",
                               fit: BoxFit.cover,
                             )),
                       ),
@@ -334,7 +334,7 @@ class Peppermint extends StatelessWidget {
                         child: ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
                             child: Image.network(
-                              "https://images.pexels.com/photos/1581101/pexels-photo-1581101.jpeg?auto=compress&cs=tinysrgb&w=600",
+                              "https://images.pexels.com/photos/4021878/pexels-photo-4021878.jpeg?auto=compress&cs=tinysrgb&w=600",
                               fit: BoxFit.cover,
                             )),
                       ),
@@ -344,7 +344,7 @@ class Peppermint extends StatelessWidget {
                         child: ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
                             child: Image.network(
-                              "https://images.pexels.com/photos/2239673/pexels-photo-2239673.jpeg?auto=compress&cs=tinysrgb&w=600",
+                              "https://images.pexels.com/photos/4750373/pexels-photo-4750373.jpeg?auto=compress&cs=tinysrgb&w=600",
                               fit: BoxFit.cover,
                             )),
                       ),
@@ -354,7 +354,7 @@ class Peppermint extends StatelessWidget {
                         child: ClipRRect(
                             borderRadius: BorderRadius.circular(8.0),
                             child: Image.network(
-                              "https://images.pexels.com/photos/1549194/pexels-photo-1549194.jpeg?auto=compress&cs=tinysrgb&w=600",
+                              "https://images.pexels.com/photos/531260/pexels-photo-531260.jpeg?auto=compress&cs=tinysrgb&w=600",
                               fit: BoxFit.cover,
                             )),
                       ),
@@ -365,7 +365,7 @@ class Peppermint extends StatelessWidget {
                   margin: const EdgeInsets.symmetric(
                       horizontal: 60.0, vertical: 30.0),
                   child: const Text(
-                    "Aloe Vera is a succulent plant that is native to North Africa. It is widely known for its healing properties and is commonly used to treat burns, wounds, and skin irritations. Aloe Vera also has anti-inflammatory properties and is used in many cosmetic products. It is easy to grow indoors and requires minimal care. Aloe Vera can also help purify the air in your home.",
+                    "Peppermint is a fragrant herb that is native to Europe and Asia. It is commonly used in teas, candies, and other food products. Peppermint has a cooling sensation and is commonly used to relieve headaches and other ailments. It is also a natural insect repellent and can be grown in pots indoors.",
                     style: TextStyle(
                         color: Colors.black38, letterSpacing: 0.8, height: 1.5),
                   ),
@@ -382,7 +382,7 @@ class Peppermint extends StatelessWidget {
                 top: 460,
                 left: 20,
                 child: Text(
-                  "Aloe Vera",
+                  "Peppermint",
                   style: TextStyle(fontWeight: FontWeight.w500, fontSize: 45),
                 ))
           ],

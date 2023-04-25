@@ -64,9 +64,9 @@ class HomeScreen extends StatelessWidget {
                         child: Text(
                           "Aloe Vera",
                           style: TextStyle(
-                            fontWeight: FontWeight.w600,
-                            fontSize: 32.0,
-                          ),
+                              fontWeight: FontWeight.w600,
+                              fontSize: 32.0,
+                              color: Colors.amber),
                         ),
                       ),
                     ),
@@ -181,7 +181,9 @@ class HomeScreen extends StatelessWidget {
                         child: Text(
                           "Basil",
                           style: TextStyle(
-                              fontWeight: FontWeight.w600, fontSize: 32.0),
+                              fontWeight: FontWeight.w600,
+                              fontSize: 32.0,
+                              color: Colors.blueAccent),
                         ),
                       ),
                     ),
@@ -297,7 +299,9 @@ class HomeScreen extends StatelessWidget {
                         child: Text(
                           "Lavender",
                           style: TextStyle(
-                              fontWeight: FontWeight.w600, fontSize: 32.0),
+                              fontWeight: FontWeight.w600,
+                              fontSize: 32.0,
+                              color: Colors.redAccent),
                         ),
                       ),
                     ),
@@ -330,13 +334,13 @@ class HomeScreen extends StatelessWidget {
                               style: TextStyle(
                                   fontWeight: FontWeight.w500,
                                   fontSize: 28.0,
-                                  color: Colors.white)),
+                                  color: Colors.redAccent)),
                         ),
                         Container(
                           margin: const EdgeInsets.only(top: 20.0),
                           width: 1,
                           height: 50.0,
-                          color: Colors.white,
+                          color: Colors.redAccent,
                         )
                       ],
                     ),
@@ -411,9 +415,11 @@ class HomeScreen extends StatelessWidget {
                       child: RotatedBox(
                         quarterTurns: 3,
                         child: Text(
-                          "Natural\nIngredients",
+                          "Peppermint",
                           style: TextStyle(
-                              fontWeight: FontWeight.w600, fontSize: 32.0),
+                              fontWeight: FontWeight.w600,
+                              fontSize: 32.0,
+                              color: Colors.lightGreen),
                         ),
                       ),
                     ),
@@ -424,7 +430,7 @@ class HomeScreen extends StatelessWidget {
                   child: SizedBox(
                     height: 350,
                     child: Image.network(
-                      "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1032600956.jpg",
+                      "https://images.pexels.com/photos/214165/pexels-photo-214165.jpeg?auto=compress&cs=tinysrgb&w=600",
                       fit: BoxFit.cover,
                     ),
                   ),
@@ -442,17 +448,17 @@ class HomeScreen extends StatelessWidget {
                       children: [
                         const RotatedBox(
                           quarterTurns: 3,
-                          child: Text("01",
+                          child: Text("04",
                               style: TextStyle(
                                   fontWeight: FontWeight.w500,
                                   fontSize: 28.0,
-                                  color: Colors.white)),
+                                  color: Colors.lightGreen)),
                         ),
                         Container(
                           margin: const EdgeInsets.only(top: 20.0),
                           width: 1,
                           height: 50.0,
-                          color: Colors.white,
+                          color: Colors.lightGreen,
                         )
                       ],
                     ),
@@ -478,7 +484,7 @@ class HomeScreen extends StatelessWidget {
                           padding: EdgeInsets.symmetric(
                               horizontal: 30.0, vertical: 30.0),
                           child: Text(
-                              "More and More people are option to the herbal lyfe",
+                              "A minty herb often used for its digestive and respiratory benefits.",
                               style: TextStyle(
                                 color: Colors.black,
                                 fontSize: 16.0,
