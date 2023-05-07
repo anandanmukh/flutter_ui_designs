@@ -85,7 +85,7 @@ class _HomeScreenState extends State<HomeScreen> {
               const Padding(
                 padding: EdgeInsets.only(left: 16.0, top: 40.0, bottom: 30.0),
                 child: Text(
-                  "Travel\nthe Unseen",
+                  "Trail\nTrekker",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 38,
