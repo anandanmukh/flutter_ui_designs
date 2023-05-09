@@ -10,24 +10,7 @@
 
 
 # Visuals
-
-### Homepage "Packages" Page Design Visual
-![homescreen_packages](https://user-images.githubusercontent.com/67072228/237044699-409ae56c-56d8-428e-8bbe-fcbcbef7aa23.png){:width="300px"}
-
-
-<img src="assets/screenshots/homescreen_packages.png" alt="Home Screen Image" width="300" height="620">
-
-### Homepage "Hotels" Page Design Visual 
-<img src="assets/screenshots/homescreen_hotels.png" alt="Profile-Page Image" width="300" height="620">
-
-### Homepage "Flights" Page Design Visual
-![homescreen_flights](https://user-images.githubusercontent.com/67072228/237044789-6fa2451e-8c30-4f21-9bf7-8e4d5700ae93.png)
-
-<img src="assets/screenshots/homescreen_flights.png" alt="Theme Page Custom" width="300" height="620">
-
-### Second Screen "Mountain Packages" Page Design Visual 
-<img src="resources/screenshots/second_screen_packages.png" alt="Theme Page Custom" width="300" height="620">
-
+![trail_trekker_ui](https://github.com/anandanmukh/flutter_ui_designs/assets/67072228/c19e6c75-2d4f-4c8b-831c-f0ffe06d5f57)
 
 # About
 
