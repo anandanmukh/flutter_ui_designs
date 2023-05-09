@@ -11,31 +11,19 @@
 
 
 # Visuals
-
-### Homepage "Packages" Page Design Visual
-<img src="resources/screenshots/homescreen_packages.png" alt="Home Screen Image" width="300" height="620">
-
-### Homepage "Hotels" Page Design Visual 
-<img src="resources/screenshots/homescreen_hotels.png" alt="Profile-Page Image" width="300" height="620">
-
-### Homepage "Flights" Page Design Visual
-<img src="resources/screenshots/homescreen_flights.png" alt="Theme Page Custom" width="300" height="620">
-
-### Second Screen "Mountain Packages" Page Design Visual 
-<img src="resources/screenshots/second_screen_packages.png" alt="Theme Page Custom" width="300" height="620">
-
+![mind_space_ui](https://github.com/anandanmukh/flutter_ui_designs/assets/67072228/317117a5-8749-47c7-96aa-b5662fa6dc1b)
 
 # About
 
-- Trail Trekkers is a travel app
-- The app helps users to plan their trips
-- The app provides a one-stop solution for all travel needs
-Users can book flights, hotels, and packages through the app
-- The app provides a list of places to visit in the city users are traveling to
-- The app also provides a list of restaurants in the city users are traveling to
+- Headspace is a mobile app that provides guided meditation and mindfulness exercises.
+- The app offers a variety of meditation sessions and personalized courses to improve mental health.
+- It also provides educational content and exercises to better understand and manage mental health.
+- The user-friendly interface has visually appealing graphics and animations.
+- Headspace offers various subscription plans, including a free trial and monthly or yearly subscriptions.
+- With over 70 million users worldwide, Headspace is known for its accessibility and effectiveness in improving mental health.
 
 ## UI Design Idea
-- Trail Trekkers features a clean and visually appealing design.
+- Mind Space features a clean and visually appealing design.
 - User experience was a top priority in the design process.
 - User testing was conducted to gather feedback and improve the design.
 - The app incorporates animations and other interactive elements for a more engaging user experience.
@@ -52,7 +40,7 @@ Download the APK file from the Google Drive link provided and install it directl
 
 To install the app on your device, follow these steps:
 
-- Google Drive link: https://drive.google.com/drive/folders/1qNmtxv21h3XoSFVeychdA6Ah3qwxXqBc?usp=share_link
+- Google Drive link: https://drive.google.com/drive/folders/1GflMaqI5fPM2h_2kPa_fSC-orDYYijLe?usp=share_link
 - Enable "Unknown Sources" in your device's settings.
 - Tap on the downloaded APK file to install the app.
 - Open the app and enjoy!
