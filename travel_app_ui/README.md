@@ -12,7 +12,7 @@
 # Visuals
 
 ### Homepage "Packages" Page Design Visual
-![homescreen_packages](https://user-images.githubusercontent.com/67072228/237044699-409ae56c-56d8-428e-8bbe-fcbcbef7aa23.png)
+![homescreen_packages](https://user-images.githubusercontent.com/67072228/237044699-409ae56c-56d8-428e-8bbe-fcbcbef7aa23.png){:width="300px"}
 
 
 <img src="assets/screenshots/homescreen_packages.png" alt="Home Screen Image" width="300" height="620">
