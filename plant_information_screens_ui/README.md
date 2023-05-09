@@ -36,13 +36,13 @@
 
 # Installation
 
-Download the APK file from the Google Drive link provided and install it directly on your Android device by following these steps:
+Download the APK/ISA file from the Google Drive link provided and install it directly on your Android device by following these steps:
 
 To install the app on your device, follow these steps:
 
 - Google Drive link: https://drive.google.com/drive/folders/1s6cS1WZDUNMpGYXoYaxtXmi0D9kxc4Cf?usp=share_link
 - Enable "Unknown Sources" in your device's settings.
-- Tap on the downloaded APK file to install the app.
+- Tap on the downloaded APK/ISA file to install the app.
 - Open the app and enjoy!
 
 Alternatively, you can build the app from source by following these steps:
