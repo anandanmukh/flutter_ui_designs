@@ -15,7 +15,7 @@
 
 # About
 
-- Headspace is a mobile app that provides guided meditation and mindfulness exercises.
+- Mind Space is a mobile app that provides guided meditation and mindfulness exercises.
 - The app offers a variety of meditation sessions and personalized courses to improve mental health.
 - It also provides educational content and exercises to better understand and manage mental health.
 - The user-friendly interface has visually appealing graphics and animations.
