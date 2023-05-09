@@ -2,26 +2,25 @@
 
 ## Table of Contents
 
-- [Visuals] (#visuals)
+- [Visuals](#visuals)
 - [About](#about)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 
 # Visuals
 
-### Homepage "Packages" Page Design
-<img src="resources/screenshots/homescreen_packages.png" alt="Home Screen Image" width="300" height="620">
+### Homepage "Packages" Page Design Visual
+<img src="assets/screenshots/homescreen_packages.png" alt="Home Screen Image" width="300" height="620">
 
-### Homepage "Hotels" Page Design
-<img src="resources/screenshots/homescreen_hotels.png" alt="Profile-Page Image" width="300" height="620">
+### Homepage "Hotels" Page Design Visual 
+<img src="assets/screenshots/homescreen_hotels.png" alt="Profile-Page Image" width="300" height="620">
 
-### Homepage "Flights" Page Design
-<img src="resources/screenshots/homescreen_flights.png" alt="Theme Page Custom" width="300" height="620">
+### Homepage "Flights" Page Design Visual
+<img src="assets/screenshots/homescreen_flights.png" alt="Theme Page Custom" width="300" height="620">
 
-### Second Screen "Mountain Packages" Page Design
+### Second Screen "Mountain Packages" Page Design Visual 
 <img src="resources/screenshots/second_screen_packages.png" alt="Theme Page Custom" width="300" height="620">
 
 
