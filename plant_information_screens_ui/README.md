@@ -1,4 +1,4 @@
-# Trail Trekkers
+# Green Guide
 
 ## Table of Contents
 
