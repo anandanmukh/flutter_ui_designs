@@ -13,6 +13,10 @@
 ![trail_trekker_ui](https://github.com/anandanmukh/flutter_ui_designs/assets/67072228/c19e6c75-2d4f-4c8b-831c-f0ffe06d5f57)
 
 # About
+<h2 align=center> Tech Stack 🔥 </h2>  
+  <p align="center">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/canva%20-%23F24E1E.svg?&style=for-the-badge&logo=canva&logoColor=white"/>
 
 - Trail Trekkers is a travel app
 - The app helps users to plan their trips

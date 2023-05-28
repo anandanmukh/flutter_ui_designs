@@ -14,6 +14,10 @@
 ![green_guide_ui](https://github.com/anandanmukh/flutter_ui_designs/assets/67072228/94434631-878b-42ed-9ee6-493bda23a7ec)
 
 # About
+<h2 align=center> Tech Stack 🔥 </h2>  
+  <p align="center">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/canva%20-%23F24E1E.svg?&style=for-the-badge&logo=canva&logoColor=white"/>
 
 - Green Guide is a mobile app that provides comprehensive plant information.
 - The app includes descriptions, images, and uses of various plants.
